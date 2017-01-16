@@ -1,0 +1,22 @@
+#left {
+	background: #666;
+	color: #fff;
+	float: right;
+	width: 10%;
+	height: 50px;
+
+}
+
+#middle {
+	background: #888;
+	float: right;
+	width: 10%;
+	color: #fff;
+
+}
+
+#right {
+	background: #666;
+	float: right;
+	width: 10%;
+	color: #fff;
